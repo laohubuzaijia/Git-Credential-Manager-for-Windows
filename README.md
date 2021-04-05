@@ -30,6 +30,7 @@ authentication with GitHub and is the replacement for GCM for Windows.
 Please update to Git for Windows 2.28 and select "Git Credential Manager Core" from
 the installer when asked to "select a credential helper", or manually install GCM Core
 from [here](https://github.com/microsoft/Git-Credential-Manager-Core/releases/latest).
+## 1
 
 ---
 
